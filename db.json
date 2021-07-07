@@ -1,32 +1,11 @@
 {
   "stocks": [
     {
-      "id": 1,
-      "ticker": "GOOG",
-      "name": "Google",
-      "type": "Tech",
-      "price": 1194.8
-    },
-    {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
       "price": 168.85
-    },
-    {
-      "id": 3,
-      "ticker": "TWTR",
-      "name": "Twitter",
-      "type": "Tech",
-      "price": 29.41
-    },
-    {
-      "id": 4,
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "type": "Tech",
-      "price": 2013.04
     },
     {
       "id": 5,
